@@ -1,11 +1,5 @@
 # Simple video player
-
-A project to learn HTML5 Media , CSS3 and JS
-
-## TODO
-
-- Add simple CSS to fix size and position of a video player
-
-- Add button icons
-
-- Move progress bar right from buttons
+- replace 2018 template with new one
+- fix old functionalities
+- add new functionalities (js , bootstrap)
+- vue maybe
