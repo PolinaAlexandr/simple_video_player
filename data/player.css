@@ -1,0 +1,99 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#simple_video_player {
+	height: 50%;
+	width: 50%;
+	
+}
+
+#media-video {
+	object-fit: initial;
+	height: 400px;
+	width: 100%;
+	display: inline-block;
+}
+
+#media-controls {
+	
+}
+
+#media-play-list {
+	
+}
+
+#play-pause-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/play.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+}
+
+#stop-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/stop.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+
+}
+
+#mute-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/mute.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+}
+
+#replay-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/replay.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+}
+
+#progress-bar {
+  margin-right: 10px;
+  width: 75%;
+  border-radius: 8px;
+  opacity: 0.6;
+
+}
+
+#volume-dec-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/minus.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+}
+
+#volume-inc-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/plus.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+
+}
+
+#fullscreen-button {
+  height: 35px;
+  width: 35px;
+  background-image: url(../fonts/fullscreen.png);
+  border-radius: 8px;
+  opacity: 0.6;
+
+
+}
